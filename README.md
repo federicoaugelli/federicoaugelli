@@ -1,4 +1,6 @@
-### Hi I'm Frdrk! 
+### Hi I'm **Frdrk**! 💻 Computer Science student at University of Bologna and 🎹 pianist at Conservatorio G.B. Martini.
+---
+> I like Cybersecurity, and Crypto
 
 <!--
 **federicoaugelli/federicoaugelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
