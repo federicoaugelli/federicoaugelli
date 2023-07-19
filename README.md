@@ -4,6 +4,6 @@
 <p align="center" href="https://github.com/federicoaugelli/github-readme-stats">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoaugelli&hide_progress=true&langs_count=10&theme=tokyonight" />
 
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=federicoaugelli&show_icons=true&theme=tokyonight" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=federicoaugelli&theme=tokyonight&show_icons=true" />
 </p>
 
