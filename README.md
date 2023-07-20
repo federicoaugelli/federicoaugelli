@@ -2,7 +2,7 @@
 <p align="center">I like Cybersecurity and Crypto</p>
 
 <p align="center" href="https://github.com/federicoaugelli/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=federicoaugelli&theme=tokyonight&show_icons=true&hide_rank=true" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoaugelli&hide_progress=true&langs_count=8&theme=tokyonight" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=federicoaugelli&theme=tokyonight&show_icons=true&hide_rank=true" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoaugelli&hide_progress=true&langs_count=8&theme=tokyonight" />
 </p>
 
