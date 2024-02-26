@@ -3,6 +3,6 @@
 
 <p align="center" href="https://github.com/federicoaugelli/github-readme-stats">
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=federicoaugelli&theme=tokyonight&show_icons=false&hide_rank=true" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoaugelli&langs_count=8&theme=tokyonight&hide_progress=true&hide=html,css,antlr,jolie" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoaugelli&langs_count=10&theme=tokyonight&hide_progress=true" />
 </p>
 
